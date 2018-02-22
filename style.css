@@ -1,0 +1,49 @@
+body {
+   background-color: red;
+   color: orange;
+   font-family: font-family: "Times New Roman", Times, serif
+   font-size: 18px;
+   font-weight: 200;
+   line-height: 1;
+   margin: auto;
+   padding-bottom: 48px;
+   width: 768px;
+}
+
+h1 {
+   font-family: font-family: "Times New Roman", Times, serif
+   font-size: 3rem;
+   text-align: center;
+}
+
+h2 {
+   font-family: font-family: "Times New Roman", Times, serif
+   font-size: 2.25rem;
+   margin-top: 64px;
+   text-align: center;
+}
+
+div {
+   display: block;
+   text-align: center;
+}
+
+div p {
+   font-size: 14px;
+   margin: 0;
+}
+
+div a {
+   border: 0;
+}
+
+a {
+   border-bottom: 1px solid #f6879b;
+   color: #ccc;
+   padding-bottom: 3px;
+   text-decoration: none;
+}
+
+li {
+   margin: 5px;
+}
